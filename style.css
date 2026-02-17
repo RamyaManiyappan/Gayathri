@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: Times new roman, sans-serif;
   margin: 0;
   text-align: center;
   background-color: #f4f4f4;
@@ -9,7 +9,7 @@ body {
 header {
   background: #0077ff;
   color: white;
-  padding: 20px;
+  padding: 90px;
 }
 
 section {
@@ -20,7 +20,7 @@ section {
 }
 
 .dark {
-  background-color: #222;
+  background-color: black;
   color: white;
 }
 
